@@ -1,0 +1,16 @@
+(footprint "KS-27_Cherry_MX_Plate_Cutout" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 0.5) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 8a56f413-fcbd-4cbe-92ce-224e80d0e81e)
+  )
+  (fp_text value "KS-27_Cherry_MX_Plate_Cutout" (at 0 -0.5) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 159e48b6-96a5-462a-b12a-84d4df13babf)
+  )
+  (pad "" np_thru_hole oval (at -6.5 0 90) (size 14 1) (drill oval 14 1) (layers "F&B.Cu" "*.Mask") (tstamp 64b02668-c9bd-49dd-8a86-2fdf6b7205f7))
+  (pad "" np_thru_hole oval (at 0 -6.5) (size 14 1) (drill oval 14 1) (layers "F&B.Cu" "*.Mask") (tstamp 6e900648-750c-4570-9b4f-c45575d5fd62))
+  (pad "" np_thru_hole oval (at 0 6.5) (size 14 1) (drill oval 14 1) (layers "F&B.Cu" "*.Mask") (tstamp 8481498e-0aba-4e94-814e-c59d6dbe93cf))
+  (pad "" np_thru_hole oval (at 6.5 0 90) (size 14 1) (drill oval 14 1) (layers "F&B.Cu" "*.Mask") (tstamp 1923ae7b-833e-4195-9d39-ed63869c7716))
+)

@@ -1,0 +1,17 @@
+(footprint "Hole_1.0mm" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 0) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 37a7f277-5917-485c-8744-2474fbd8911b)
+  )
+  (fp_text value "Hole_1.0mm" (at 0 0) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 0ebee5db-5c27-4d90-9c48-1b88d278c31b)
+  )
+  (fp_circle (center 0 0) (end 1 0)
+    (stroke (width 0.12) (type solid)) (fill none) (layer "B.CrtYd") (tstamp 2a737891-63ce-4e06-a05c-93f95aaa034c))
+  (fp_circle (center 0 0) (end 1 0)
+    (stroke (width 0.12) (type solid)) (fill none) (layer "F.CrtYd") (tstamp 9fa3bc49-1dca-4f42-83b6-c2872ffe4ac1))
+  (pad "" np_thru_hole circle (at 0 0 270) (size 1 1) (drill 1) (layers "F&B.Cu" "*.Mask") (tstamp 5592413a-a508-40a8-b7de-090f98daa2fe))
+)
