@@ -61,4 +61,9 @@
     (chamfer_ratio 0.4) (chamfer top_right) (tstamp 310955b9-e14e-4362-bdcc-89abd83d3be6))
   (pad "3" smd rect (at 2.25 3.14) (size 0.7 1.28) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b5ab8b95-a017-4db9-b8f5-a34a58efc949))
   (pad "3" smd rect (at 2.25 3.14) (size 0.7 1.28) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp f0a3706f-a3ec-4e8e-9337-1c18ea86f474))
+  (model "C:/Users/Rafael/Documents/Keyboards/SW_MSK12C02.step"
+    (offset (xyz 0 -1.25 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

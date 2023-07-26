@@ -403,13 +403,11 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [
-      "one"
-    ],
+    "pinned_footprint_libs": [],
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "pcb.kicad_pro",
+    "filename": "bottom.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -467,7 +465,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "pcb.step",
+      "step": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""

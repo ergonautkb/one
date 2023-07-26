@@ -1,1 +1,1 @@
-# Ergonaut S1
+# Ergonaut One
