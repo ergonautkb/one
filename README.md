@@ -6,7 +6,7 @@ Ergonaut One is an open-source ergonomic wireless split mechanical keyboard desi
 
 Inspiration for the keyboard was taken from these projects:
 
-* [Corne](https://github.com/foostan/crkbd) by [foostan](https://github.com/foostan) - column stagger
+* [Corne](https://github.com/foostan/crkbd) by [foostan](https://github.com/foostan)
 * [Dao](https://github.com/yumagulovrn/dao-choc-ble) by [yumagulovrn](https://github.com/yumagulovrn)
 
 ## Idea
