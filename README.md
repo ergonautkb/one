@@ -17,7 +17,7 @@ We wanted to create a pretty affordable, nice looking, and, most importantly, ve
 
 * Low-profile, which will reduce strain on your beautiful hands;
 * Split. You can put the keyboard where it'll be comfortable exactly for you;
-* Relatively long battery life. 250mAh battery gives up to a month of usage without charging;
+* Pretty long battery life. 250mAh battery gives up to a month of usage without charging;
 * Wide availability and range of [compatible keycaps](../../switches/gateron-low-profile#keycaps-compatibility);
 * Budget-friendly, because:
   * It uses relatively cheap and widely available [Seeed Studio XIAO nRF52840](https://wiki.seeedstudio.com/XIAO_BLE/) as MCU;
