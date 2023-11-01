@@ -43,5 +43,5 @@ Firmware can be found in [one-zmk-config](https://github.com/ergonautkb/one-zmk-
 ## Contacts
 
 * Documentation portal: https://ergonautkb.github.io
-* Telegram (International): https://t.me/rafworksintl
-* Telegram (Ru): https://t.me/rafworks
+* Telegram: https://ergonautkb.t.me
+* Telegram (ru): https://ergonautkb_ru.t.me
