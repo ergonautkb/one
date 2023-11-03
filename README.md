@@ -1,6 +1,7 @@
 # Ergonaut One
 
 ![Ergonaut One Header Image](img/header.jpg)
+*Ergonaut One in Modern Case*
 
 Ergonaut One is an open-source ergonomic wireless split mechanical keyboard designed by Ergonaut Keyboards.
 
@@ -18,7 +19,7 @@ We wanted to create a pretty affordable, nice looking, and, most importantly, ve
 * Low-profile, which will reduce strain on your beautiful hands;
 * Split. You can put the keyboard where it'll be comfortable exactly for you;
 * Pretty long battery life. 250mAh battery gives up to a month of usage without charging;
-* Wide availability and range of [compatible keycaps](../../switches/gateron-low-profile#keycaps-compatibility);
+* Wide availability and range of [compatible keycaps](https://ergonautkb.github.io/docs/switches/gateron-low-profile#keycaps-compatibility);
 * Budget-friendly, because:
   * It uses relatively cheap and widely available [Seeed Studio XIAO nRF52840](https://wiki.seeedstudio.com/XIAO_BLE/) as MCU;
   * It uses one PCB design for both halves of the keyboard;
