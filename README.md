@@ -19,7 +19,7 @@ We wanted to create a pretty affordable, nice looking, and, most importantly, ve
 * Low-profile, which will reduce strain on your beautiful hands;
 * Split. You can put the keyboard where it'll be comfortable exactly for you;
 * Pretty long battery life. 250mAh battery gives up to a month of usage without charging;
-* Wide availability and range of [compatible keycaps](https://ergonautkb.github.io/docs/switches/gateron-low-profile#keycaps-compatibility);
+* Wide availability and range of [compatible keycaps](https://ergonautkb.com/docs/switches/gateron-low-profile#keycaps-compatibility);
 * Budget-friendly, because:
   * It uses relatively cheap and widely available [Seeed Studio XIAO nRF52840](https://wiki.seeedstudio.com/XIAO_BLE/) as MCU;
   * It uses one PCB design for both halves of the keyboard;
@@ -34,7 +34,7 @@ We wanted to create a pretty affordable, nice looking, and, most importantly, ve
 
 ## Build Guide
 
-BOM and Build Guide can be found in [Ergonaut Keyboards Documentation Portal](https://ergonautkb.github.io/docs/keyboards/ergonaut-one/intro).
+BOM and Build Guide can be found in [Ergonaut Keyboards Documentation Portal](https://ergonautkb.com/docs/keyboards/ergonaut-one/intro).
 
 ## Firmware
 
@@ -43,6 +43,6 @@ Firmware can be found in [one-zmk-config](https://github.com/ergonautkb/one-zmk-
 
 ## Contacts
 
-* Documentation portal: https://ergonautkb.github.io
+* Documentation portal: https://ergonautkb.com
 * Telegram: https://ergonautkb.t.me
 * Telegram (ru): https://ergonautkb_ru.t.me
