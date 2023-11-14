@@ -1,0 +1,56 @@
+on: 
+    push:
+        branches:
+          - main
+        paths-ignore:
+          - '**/README.md'
+          - '**/LICENSE'
+          - '**/CHANGES.txt'
+          - '**/img/*'
+    pull_request:
+        branches:
+          - main
+        paths-ignore:
+          - '**/README.md'
+          - '**/LICENSE'
+          - '**/CHANGES.txt'
+          - '**/img/*'
+    workflow_dispatch:
+        paths-ignore:
+          - '**/README.md'
+          - '**/LICENSE'
+          - '**/CHANGES.txt'
+          - '**/img/*'
+
+env:
+  DOCKER_USER_OPTION: '$UID:$GID'
+
+name: Build
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    name: Generate
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3.5.2
+      - uses: xanantis/docker-file-ownership-fix@v1
+      - name: Run build script
+        run: |
+            chmod +x build.sh
+            ./build.sh
+        shell: bash
+      - name: Persist PCB gerbers
+        uses: actions/upload-artifact@v3.1.2
+        with:
+          name: One_pcb_gerbers
+          path: gerbers/pcb
+      - name: Persist case gerbers
+        uses: actions/upload-artifact@v3.1.2
+        with:
+          name: One_case_gerbers
+          path: gerbers/case
+      - name: Persist images
+        uses: actions/upload-artifact@v3.1.2
+        with:
+          name: One_images
+          path: images
