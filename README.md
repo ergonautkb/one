@@ -55,8 +55,9 @@ PCB
 
 [IBOM](https://htmlpreview.github.io/?https://github.com/ergonautkb/one/blob/main/pcb/bom/ibom.html)
 
-[gerbers(JLCPCB)](../../releases/latest/download/pcb-JLCPCB_gerbers.zip)
-[gerbers(PCBWay)](../../releases/latest/download/pcb-PCBWay_gerbers.zip)
+gerbers:
+[JLCPCB](../../releases/latest/download/pcb-JLCPCB_gerbers.zip)
+[PCBWay](../../releases/latest/download/pcb-PCBWay_gerbers.zip)
 
 front|back
 --|--
