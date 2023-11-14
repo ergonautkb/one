@@ -40,27 +40,17 @@ BOM and Build Guide can be found in [Ergonaut Keyboards Documentation Portal](ht
 
 Firmware can be found in [one-zmk-config](https://github.com/ergonautkb/one-zmk-config) repository.
 
+## Gerbers
+
+| Front                                            | Back                                                 |
+| ------------------------------------------------ | ---------------------------------------------------- |
+| ![front](../../releases/latest/download/pcb.png) | ![back](../../releases/latest/download/pcb_back.png) |
+
+* [JLCPCB](../../releases/latest/download/pcb-JLCPCB_gerbers.zip)
+* [PCBWay](../../releases/latest/download/pcb-PCBWay_gerbers.zip)
 
 ## Contacts
 
 * Documentation portal: https://ergonautkb.com
 * Telegram: https://ergonautkb.t.me
 * Telegram (ru): https://ergonautkb_ru.t.me
-
-## Links
-
-### Version 1.1
-
-PCB
-
-[IBOM](https://htmlpreview.github.io/?https://github.com/ergonautkb/one/blob/main/pcb/bom/ibom.html)
-
-gerbers:
-[JLCPCB](../../releases/latest/download/pcb-JLCPCB_gerbers.zip)
-[PCBWay](../../releases/latest/download/pcb-PCBWay_gerbers.zip)
-
-front|back
---|--
-![front](../../releases/latest/download/pcb.png)|![back](../../releases/latest/download/pcb_back.png)
-
-[Case gerbers](../../releases/latest/download/gerber_case_files.zip)
