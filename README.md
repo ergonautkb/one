@@ -46,8 +46,8 @@ Firmware can be found in [one-zmk-config](https://github.com/ergonautkb/one-zmk-
 | ------------------------------------------------ | ---------------------------------------------------- |
 | ![front](../../releases/latest/download/pcb.png) | ![back](../../releases/latest/download/pcb_back.png) |
 
-* [JLCPCB](../../releases/latest/download/pcb-JLCPCB_gerbers.zip)
-* [PCBWay](../../releases/latest/download/pcb-PCBWay_gerbers.zip)
+* [Gerbers for JLCPCB](../../releases/latest/download/pcb-JLCPCB_gerbers.zip)
+* [Gerbers for PCBWay](../../releases/latest/download/pcb-PCBWay_gerbers.zip)
 
 ## Contacts
 
