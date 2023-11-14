@@ -46,3 +46,20 @@ Firmware can be found in [one-zmk-config](https://github.com/ergonautkb/one-zmk-
 * Documentation portal: https://ergonautkb.com
 * Telegram: https://ergonautkb.t.me
 * Telegram (ru): https://ergonautkb_ru.t.me
+
+## Links
+
+### Version 1.1
+
+PCB
+
+[IBOM](https://htmlpreview.github.io/?https://github.com/ergonautkb/one/blob/main/pcb/bom/ibom.html)
+
+[gerbers(JLCPCB)](../../releases/latest/download/pcb-JLCPCB_gerbers.zip)
+[gerbers(PCBWay)](../../releases/latest/download/pcb-PCBWay_gerbers.zip)
+
+front|back
+--|--
+![front](../../releases/latest/download/pcb.png)|![back](../../releases/latest/download/pcb_back.png)
+
+[Case gerbers](../../releases/latest/download/gerber_case_files.zip)
