@@ -1,0 +1,22 @@
+# Temporary files
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*backups*
+*~
+_autosave-*
+*.tmp
+*-rescue.lib
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
+*-bak
+
+# Build artifacts
+gerbers/*
+images/*
+
+# Unnecessary files
+plate/*/*.kicad_prl
+bottom/*/*.kicad_prl

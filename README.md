@@ -40,6 +40,14 @@ BOM and Build Guide can be found in [Ergonaut Keyboards Documentation Portal](ht
 
 Firmware can be found in [one-zmk-config](https://github.com/ergonautkb/one-zmk-config) repository.
 
+## Gerbers
+
+| Front                                            | Back                                                 |
+| ------------------------------------------------ | ---------------------------------------------------- |
+| ![front](../../releases/latest/download/pcb.png) | ![back](../../releases/latest/download/pcb_back.png) |
+
+* [JLCPCB](../../releases/latest/download/pcb-JLCPCB_gerbers.zip)
+* [PCBWay](../../releases/latest/download/pcb-PCBWay_gerbers.zip)
 
 ## Contacts
 
