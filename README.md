@@ -20,6 +20,7 @@ We wanted to create a pretty affordable, nice looking, and, most importantly, ve
 * Split. You can put the keyboard where it'll be comfortable exactly for you;
 * Pretty long battery life. 250mAh battery gives up to a month of usage without charging;
 * Wide availability and range of [compatible keycaps](https://ergonautkb.com/docs/switches/gateron-low-profile#keycaps-compatibility);
+* Easily replaceable [switches](https://ergonautkb.com/docs/switches/gateron-low-profile#ks-33-v2) thanks to hot-swap sockets;
 * Budget-friendly, because:
   * It uses relatively cheap and widely available [Seeed Studio XIAO nRF52840](https://wiki.seeedstudio.com/XIAO_BLE/) as MCU;
   * It uses one PCB design for both halves of the keyboard;
