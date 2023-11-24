@@ -14,6 +14,10 @@ Inspiration for the keyboard was taken from these projects:
 
 We wanted to create a pretty affordable, nice looking, and, most importantly, very DIY-friendly ergonomic wireless split keyboard with Gateron Low Profile switches.
 
+## Photos
+
+Gallery can be found on [imgur](https://imgur.com/a/sOBBtmQ).
+
 ## Features
 
 * Low-profile, which will reduce strain on your beautiful hands;
