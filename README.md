@@ -54,6 +54,12 @@ Firmware can be found in [one-zmk-config](https://github.com/ergonautkb/one-zmk-
 * [Gerbers for JLCPCB](../../releases/latest/download/pcb-JLCPCB_gerbers.zip)
 * [Gerbers for PCBWay](../../releases/latest/download/pcb-PCBWay_gerbers.zip)
 
+## Community projects
+
+### Accessories
+
+* [Frame for Magic Trackpad 2](https://www.thingiverse.com/thing:6435882) by [Alex Kh](https://www.thingiverse.com/alehano777/designs)
+
 ## Contacts
 
 * Documentation portal: https://ergonautkb.com
