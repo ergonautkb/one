@@ -58,7 +58,7 @@ Firmware can be found in [one-zmk-config](https://github.com/ergonautkb/one-zmk-
 
 ### Accessories
 
-* [Frame for Magic Trackpad 2](https://www.thingiverse.com/thing:6435882) by [Alex Kh](https://www.thingiverse.com/alehano777/designs)
+* [Frames for Magic Trackpad 2/3 and Laptops](https://www.thingiverse.com/thing:6447743) by [Alex Kh](https://www.thingiverse.com/alehano777/designs)
 
 ## Contacts
 
